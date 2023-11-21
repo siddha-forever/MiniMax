@@ -16,8 +16,11 @@ Ensure that you save your solution before progressing to the next question and b
 Exercise-1
 input:
 1 3 4 2 5 6
+
 output:
 10 18
+
+
 Exercise-2
 input:
 12 3 4 8 1 5
